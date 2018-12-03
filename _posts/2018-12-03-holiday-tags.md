@@ -1,9 +1,10 @@
 ---
-title: Holiday Tags
+title: Holiday Gift Tags
 date: 2018-12-03 23:28:30 +0000
 layout: post
 preview: ''
-tags: []
+tags:
+- Gift tags
 
 ---
 Custom Watercolor Holiday Gift Tags
