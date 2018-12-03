@@ -23,3 +23,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- _posts/a-custom-watercolor-family-portrait-for-your-one-of-a-kind-family.md
