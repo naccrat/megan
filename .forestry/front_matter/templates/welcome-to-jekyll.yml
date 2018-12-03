@@ -21,5 +21,8 @@ fields:
 - type: file
   name: preview
   label: Art
+- type: tag_list
+  name: tags
+  label: Tags
 pages:
 - _posts/2018-12-03-a-custom-watercolor-family-portrait-for-your-one-of-a-kind-family.md
