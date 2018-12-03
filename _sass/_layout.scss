@@ -1,12 +1,13 @@
 /**
  * Site header
 */
-
+.body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
 }
+
  .wrapper .container {
     max-width: 80rem;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
 }
 
 .site-header {
