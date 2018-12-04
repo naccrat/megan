@@ -5,7 +5,7 @@ permalink: "/contact/"
 
 ---
 <div class="contact-form">
-<form method="post" id="contact-form" netlify>
+<form method="post" id="contact-form" action="/success" netlify>
 
 <div class="contact-form__item">
 <label class="contact-form__label">Name *</label>
