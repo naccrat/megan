@@ -5,12 +5,15 @@ layout: post
 preview: "/uploads/family-3-custom.png"
 tags:
 - Family portraits
+cost: "$30.00"
 
 ---
-A custom watercolor family portrait.
+Custom watercolor family portrait.
 
-**$30.00** 
+**$30.00**
 
-Send me a picture of your family, and I'll create an 8" x 10" watercolor piece on high quality watercolor paper for you. 
+Send me a picture of your family, and I'll create an 8" x 10" watercolor piece on high quality watercolor paper for you.
 
 ![](/uploads/family-3-custom.png)
+
+![](/uploads/family-portrait.png)
