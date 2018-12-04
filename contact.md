@@ -18,7 +18,7 @@ permalink: "/contact/"
 </div>
 
 <div class="contact-form__item">
-<label class="contact-form__label">Phone Number*</label>
+<label class="contact-form__label">Phone Number *</label>
 <input type="text" name="phone" placeholder="Your phone number..." class="contact-form__input">
 </div>
 
