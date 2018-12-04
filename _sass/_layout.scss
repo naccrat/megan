@@ -2,7 +2,6 @@
  * Site header
 */
 .wrapper {
-    margin-top: 6rem;
 }
 
  .wrapper .container {
@@ -13,7 +12,9 @@
     text-align: center;
 }
 .site-header-bg {
-    background-image: "../uploads/bg-watercolor.png";
+    background-image: url('/uploads/bg-watercolor.png');
+    background-position: center;
+    height: 200px;
 }
 .site-title {
     font-family: 'Bad Script', cursive;
