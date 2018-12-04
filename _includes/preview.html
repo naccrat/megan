@@ -8,6 +8,9 @@
                 <div class="post-title">
                     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </div>
+                <div class="post-cost">
+                    <h4>{{ post.cost }}</h4>
+                </div>
            </div>
         </div>
 {% cycle 'end row' : '', '', '</div>' %}
