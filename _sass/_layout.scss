@@ -19,6 +19,9 @@
 }
 .site-title {
     font-family: 'Bad Script', cursive;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 .navbar {
     display: block;
