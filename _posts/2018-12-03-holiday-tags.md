@@ -2,7 +2,7 @@
 title: Holiday Gift Tags
 date: 2018-12-03 23:28:30 +0000
 layout: post
-preview: ''
+preview: "/uploads/tags option 1 3.23.37 PM.jpg"
 tags:
 - Gift tags
 
