@@ -5,7 +5,6 @@ layout: page
 preview: ''
 tags: []
 permalink: "/contact/"
-published: false
 
 ---
     <div class="contact-form">
