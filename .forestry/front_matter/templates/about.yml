@@ -20,3 +20,4 @@ fields:
   default: ''
 pages:
 - contact.md
+- thank-you.md
