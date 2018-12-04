@@ -5,4 +5,4 @@ layout: page
 permalink: "/success/"
 
 ---
-Thank you for contact me. I will get back to you soon. 
+Thank you for contact me. I will get back to you soon.
