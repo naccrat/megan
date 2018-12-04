@@ -5,17 +5,25 @@ permalink: "/contact/"
 
 ---
 <div class="contact-form">
-<form method="post" action="https://formspree.io/megannacc@gmail.com" id="contact-form">
-<div class="contact-form__item">
-<label class="contact-form__label">Email Address *</label>
-<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
-</div>
+<form method="post" id="contact-form" netlify>
+
 <div class="contact-form__item">
 <label class="contact-form__label">Name *</label>
 <input type="text" name="name" placeholder="Your name..." class="contact-form__input">
 </div>
+
 <div class="contact-form__item">
-<label class="contact-form__label">Message *</label>
+<label class="contact-form__label">Email Address *</label>
+<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
+</div>
+
+<div class="contact-form__item">
+<label class="contact-form__label">Phone Number*</label>
+<input type="text" name="phone" placeholder="Your phone number..." class="contact-form__input">
+</div>
+
+<div class="contact-form__item">
+<label class="contact-form__label">Message/What I want to order *</label>
 <textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
 </div>
 <input type="hidden" name="_next" value="/thanks">
