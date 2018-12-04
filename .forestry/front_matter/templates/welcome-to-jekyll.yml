@@ -13,17 +13,20 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
+- type: text
+  name: cost
+  label: Cost
 - type: file
   name: preview
   label: Art
 - type: tag_list
   name: tags
   label: Tags
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
 pages:
 - _posts/2018-12-03-a-custom-watercolor-family-portrait-for-your-one-of-a-kind-family.md
 - _posts/2018-12-03-holiday-tags.md
