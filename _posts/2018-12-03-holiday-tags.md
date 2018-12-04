@@ -2,9 +2,10 @@
 title: Holiday Gift Tags
 date: 2018-12-03 23:28:30 +0000
 layout: post
-preview: "/uploads/holiday-gift-tags.png"
+preview: "/uploads/gift-tags-present.png"
 tags:
 - Gift tags
+cost: "$4.00–$7.00"
 
 ---
 Custom Watercolor Holiday Gift Tags
