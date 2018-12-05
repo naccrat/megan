@@ -17,7 +17,7 @@ $7.00 for a set of 12
 
 Each photo represents a set of tags. Please indicate what set you would like.
 
-Payments can be made in cash (if you live close enough) or via Venmo. Free shipping.
+[To place an order send me your information here](https://artbymegannacc.com/contact/).
 
 ![](/uploads/tags option 1 8.58.27 AM.jpg)
 
