@@ -1,0 +1,22 @@
+---
+label: Portfolio
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: Layout
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+- type: tag_list
+  name: tag
+  label: Tag
+- type: file
+  name: preview
+  label: Preview
+pages:
+- _projects/family.md
