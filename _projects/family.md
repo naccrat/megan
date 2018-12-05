@@ -5,7 +5,6 @@ tag:
 - Family
 - Watercolor
 preview: ''
-published: false
 
 ---
 Page stuff here.
