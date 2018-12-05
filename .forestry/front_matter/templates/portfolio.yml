@@ -15,3 +15,5 @@ fields:
 - type: file
   name: preview
   label: Preview
+pages:
+- _projects/family.md
