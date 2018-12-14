@@ -1,36 +1,33 @@
 ---
-title: Contact
+title: Contact/Order
 layout: page
 permalink: "/contact/"
 
 ---
-<div class="contact-form">
 <form method="post" id="contact-form" action="/success" netlify>
 
-<div class="contact-form__item">
-<label class="contact-form__label">Name *</label>
-<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
+<div class="form-group">
+
+<label>Name *</label>
+<input type="text" name="name" class="form-control">
+
 </div>
 
-<div class="contact-form__item">
-<label class="contact-form__label">Email Address *</label>
-<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
+<div class="form-group">
+<label>Email Address *</label>
+<input type="text" name="email" class="form-control">
 </div>
 
-<div class="contact-form__item">
-<label class="contact-form__label">Phone Number *</label>
-<input type="text" name="phone" placeholder="Your phone number..." class="contact-form__input">
+<div class="form-group">
+<label>Phone Number *</label>
+<input type="text" name="phone" class="form-control">
 </div>
 
-<div class="contact-form__item">
-<label class="contact-form__label">Message/What I want to order *</label>
-<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
+<div class="form-group">
+<label>Message/What I want to order *</label>
+<textarea name="message" class="form-control"></textarea>
 </div>
-<input type="hidden" name="_next" value="/thanks">
-<input type="hidden" name="_subject" value="Contact form submission">
-<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
-<div class="contact-form__item">
-<input type="submit" value="Send your message" class="button button--large">
-</div>
+
+<input type="submit" value="Send your message" class="btn btn-primary">
+
 </form>
-</div>

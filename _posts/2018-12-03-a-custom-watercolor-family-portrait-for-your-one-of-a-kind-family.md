@@ -8,11 +8,16 @@ tags:
 cost: "$30.00"
 
 ---
-Custom watercolor family portrait.
+8" x 10" watercolor piece on high quality watercolor paper for you. A simple and unique way of capturing your family and the perfect gift for someone special!
 
-Send me a picture of your family, and I'll create an 8" x 10" watercolor piece on high quality watercolor paper for you.
+Send me the picture you want painted , and I'll create an 8" x 10" watercolor portrait.
+
+Handmade item
+Made to order
 
 [To place an order send me your information here](https://artbymegannacc.com/contact/).
+
+Here are some of my most recent work.
 
 ![](/uploads/family-3-custom.png)
 
