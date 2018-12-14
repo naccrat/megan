@@ -1,5 +1,5 @@
 ---
-title: Contact/Order
+title: Order Form
 layout: page
 permalink: "/contact/"
 
@@ -19,15 +19,15 @@ permalink: "/contact/"
 </div>
 
 <div class="form-group">
-<label>Phone Number *</label>
+<label>Phone/Texting Number *</label>
 <input type="text" name="phone" class="form-control">
 </div>
 
 <div class="form-group">
-<label>Message/What I want to order *</label>
+<label>I want to order… *</label>
 <textarea name="message" class="form-control"></textarea>
 </div>
 
-<input type="submit" value="Send your message" class="btn btn-primary">
+<input type="submit" value="Place order" class="btn btn-primary">
 
 </form>
