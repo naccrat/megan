@@ -12,12 +12,15 @@ cost: "$30.00"
 
 Send me the picture you want painted , and I'll create an 8" x 10" watercolor portrait.
 
-Handmade item
-Made to order
+**Details**
+
+* Handmade item
+* Made to order
+* Shipping available
 
 [To place an order send me your information here](https://artbymegannacc.com/contact/).
 
-Here are some of my most recent work.
+##### Here are some of my most recent work.
 
 ![](/uploads/family-3-custom.png)
 
