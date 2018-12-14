@@ -1,15 +1,17 @@
-<header class="site-header">
-  <div class="site-header-top">
-    <div class="site-title">
-      <a href="{{ site.baseurl }}/"><h1>Art by {{ site.title }}</h1></a>
+<div class="nav-scroller my-2">
+    <nav class="nav">
+      <a class="p-2 text-muted" href="{{ site.baseurl }}/">Home</a>
+      <a class="p-2 text-muted" href="{{ site.baseurl }}/about/">About</a>
+      <a class="p-2 text-muted" href="{{ site.baseurl }}/contact/">Contact</a>
+    </nav>
+  </div>
+
+<header class="blog-header py-3 mb-5">
+  <div class="row">
+    <div class="col-4 mb-5 mt-3">
+      <div class="font-italic text-muted">Art by</div>
+      <h1><a class="blog-header-logo text-dark" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
     </div>
   </div>
-    
-  <nav class="navbar">
-    <ul>
-      <li class="nav-item"><a href="{{ site.baseurl }}/">Home</a></li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/about/">About</a></li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/contact/">Contact</a></li>
-    </ul>
-  </nav>
 </header>
+

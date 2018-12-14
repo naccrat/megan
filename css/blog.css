@@ -1,0 +1,257 @@
+body {
+      font-family: 'EB Garamond', serif;
+      font-size: 1.1rem;
+}
+
+.blog-header {
+      line-height: 1;
+      border-bottom: 1px solid #e5e5e5;
+}
+
+.blog-header-logo {
+      font-family: 'EB Garamond', serif;
+}
+
+.blog-header-logo:hover {
+      text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+      font-family: 'EB Garamond', serif;
+}
+
+.display-4 {
+      font-size: 2.5rem;
+}
+@media (min-width: 768px) {
+      .display-4 {
+      font-size: 3rem;
+      }
+}
+
+.nav-scroller {
+      position: relative;
+      z-index: 2;
+      height: 2.75rem;
+      overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+      padding-bottom: 1rem;
+      margin-top: -1px;
+      overflow-x: auto;
+      text-align: center;
+      white-space: nowrap;
+      -webkit-overflow-scrolling: touch;
+}
+
+.nav-scroller .nav-link {
+      padding-top: .75rem;
+      padding-bottom: .75rem;
+      font-size: .875rem;
+}
+
+.flex-auto {
+      -ms-flex: 0 0 auto;
+      flex: 0 0 auto;
+}
+
+.h-350 { height: 250px; }
+@media (min-width: 768px) {
+      .h-md-250 { height: 250px; }
+}
+
+
+.card {
+      position: relative; 
+      background-color: rgba(0, 0, 0, 1);
+}
+.card-body {
+      position: absolute;
+}
+.card-body * {
+      color: white;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, .3)
+}
+.card-body a:hover {
+      color: rgba(255, 255, 255, .7);
+      text-decoration: none;
+}
+.card img {
+      display: inline-block;
+      width: 100%;
+      overflow: hidden;
+      opacity: 0.5;
+      filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+.card-subtitle {
+      color: rgba(255, 255, 255, .9)
+}
+.card-date {
+      text-transform: uppercase;
+      font-size: .95rem;
+}
+
+
+/*
+Story page styles
+*/
+
+.story-subtitle {
+      color: rgba(0, 0, 0, .7);
+}
+.story-location {
+      text-transform: uppercase;
+      letter-spacing: .05rem;
+      font-size: .9rem;
+      color: rgba(0, 0, 0, .5p);
+}
+.story-author-img {
+      margin-bottom: 1rem;
+}
+.story-author-img img {
+      max-width: 64px;
+      height: 64px;
+}
+.story-author {
+      text-transform: uppercase;
+      font-weight: 600;
+      text-decoration: none;
+      letter-spacing: .05rem;
+      color: rgb(0, 0, 0)
+}
+.story-author span {
+      font-family: 'EB Garamond', serif;
+      font-style: italic;
+      text-transform: lowercase;
+      color: rgba(0, 0, 0, .5);
+}
+.post-title span {
+      font-family: 'EB Garamond', serif;
+      font-style: italic;
+      color: rgba(0, 0, 0, .5);
+}
+
+
+/*
+      * Blog name and description
+      */
+.blog-title {
+      margin-bottom: 0;
+      font-size: 2rem;
+      font-weight: 400;
+}
+.blog-description {
+      font-size: 1.1rem;
+      color: #999;
+}
+
+@media (min-width: 40em) {
+      .blog-title {
+      font-size: 3.5rem;
+      }
+}
+
+/* Pagination */
+.blog-pagination {
+      margin-bottom: 4rem;
+}
+.blog-pagination > .btn {
+      border-radius: 2rem;
+}
+
+/*
+      * Blog posts
+      */
+.blog-post {
+      margin-bottom: 4rem;
+}
+.blog-post-title {
+      margin-bottom: .25rem;
+      font-size: 2.5rem;
+}
+.blog-post-subtitle {
+      font-style: italic;
+      margin-bottom: 1.25rem;
+      color: rgba(0, 0, 0, .65);
+}
+.blog-post-author-avatar {
+      margin-bottom: 1rem;
+}
+.blog-post-author-avatar img {
+      max-width: 64px;
+      height: 64px;
+}
+
+.blog-post-author a {
+      text-transform: uppercase;
+      font-weight: 600;
+      text-decoration: none;
+      letter-spacing: .05rem;
+      color: rgb(0, 0, 0)
+}
+.blog-post-author a:hover {
+      color: rgba(0, 0, 0, .5)
+}
+.blog-post-author span {
+      font-family: 'EB Garamond', serif;
+      font-style: italic;
+}
+.blog-post-date {
+      text-transform: uppercase;
+      font-size: .9rem;
+      color: rgba(0, 0, 0, .6);
+}
+.page-image {
+      width: 100%; /*container-width*/
+      overflow: hidden; /*hide bounds of image */
+      margin: 0 0 16px 0; /*reset margin of figure tag*/
+      height: 300px;
+      background: rgba(0, 0, 0, 1);  
+}
+.page-image img {
+      display: block; /*remove inline-block spaces*/
+      width: 100%; /*make image streatch*/
+      /*opacity: 0.5;
+      filter: alpha(opacity=50);*/ /* For IE8 and earlier */
+}
+@media (max-width: 480px) {
+      .blog-post figure { 
+      height: 150px;
+      }
+}
+.blog-post-content {
+margin-top: 3rem;
+}
+.blog-post-tag {
+text-transform: uppercase;
+letter-spacing: .05rem;
+font-size: .9rem;
+color: rgba(0, 0, 0, .5p);
+}
+.post-content img {
+      width: 100%;
+}
+
+/*
+      * Footer
+      */
+.blog-footer {
+      padding: 2.5rem 0;
+      color: #999;
+      background-color: #f9f9f9;
+      border-top: .05rem solid #e5e5e5;
+}
+.blog-footer p:last-child {
+      margin-bottom: 0;
+}
+.icon > svg {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      vertical-align: middle;
+  }

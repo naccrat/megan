@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megan Naccarato</title>
+    <description>Watercolor art by Megan Naccarato
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 14 Dec 2018 15:07:14 -0700</pubDate>
+    <lastBuildDate>Fri, 14 Dec 2018 15:07:14 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Holiday Gift Tags</title>
+        <description>&lt;p&gt;Custom Watercolor Holiday Gift Tags&lt;/p&gt;
+
+&lt;p&gt;These are original watercolor tags that are custom made, no two are the same.&lt;/p&gt;
+
+&lt;p&gt;$4.00 for a set of 6 &lt;br /&gt;
+$7.00 for a set of 12&lt;/p&gt;
+
+&lt;p&gt;Each photo represents a set of tags. Please indicate what set you would like.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://artbymegannacc.com/contact/&quot;&gt;To place an order send me your information here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/tags option 1 8.58.27 AM.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/tags option 2 8.58.27 AM.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Dec 2018 16:28:30 -0700</pubDate>
+        <link>http://localhost:4000/2018/12/03/holiday-tags/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/03/holiday-tags/</guid>
+        
+        <category>Gift tags</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Custom Watercolor Family Portraits</title>
+        <description>&lt;p&gt;Custom watercolor family portrait.&lt;/p&gt;
+
+&lt;p&gt;Send me a picture of your family, and I’ll create an 8” x 10” watercolor piece on high quality watercolor paper for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://artbymegannacc.com/contact/&quot;&gt;To place an order send me your information here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/family-3-custom.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/family-portrait.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/IMG_0656.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Dec 2018 11:25:45 -0700</pubDate>
+        <link>http://localhost:4000/2018/12/03/a-custom-watercolor-family-portrait-for-your-one-of-a-kind-family/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/03/a-custom-watercolor-family-portrait-for-your-one-of-a-kind-family/</guid>
+        
+        <category>Family portraits</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
