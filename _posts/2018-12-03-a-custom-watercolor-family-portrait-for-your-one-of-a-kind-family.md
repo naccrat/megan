@@ -8,7 +8,7 @@ tags:
 cost: "$30.00"
 
 ---
-8" x 10" watercolor piece on high quality watercolor paper for you. A simple and unique way of capturing your family and the perfect gift for someone special!
+An 8" x 10" watercolor piece on high quality watercolor paper. A simple and unique way of capturing your family and the perfect gift for someone special!
 
 Send me the picture you want painted , and I'll create an 8" x 10" watercolor portrait.
 

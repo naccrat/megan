@@ -4,7 +4,7 @@ layout: page
 permalink: "/contact/"
 
 ---
-<form method="post" id="contact-form" action="/success" netlify>
+<form method="post" id="order-form" action="/success" netlify>
 
 <div class="form-group">
 

@@ -3,14 +3,13 @@
     <div class="col-md-4">
         <div class="card mb-4 h-350">
             <img class="" src="{{ post.preview }}">
-            <div class="card-body p-3">
-                <!-- <strong class="d-inline-block mb-2 blog-post-tag">{{ post.tags }}</strong> -->
-                <h2 class="">
+            <div class="card-body p-4">
+                <h2 class="mb-3">
                     <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h2>
                 <h4 class="card-subtitle"> {{ post.cost }}</h4>
                 <!-- <div class="mb-3 blog-post-date"><time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time></div> -->
-                <p class="card-text mb-auto">{{ post.excerpt }}</p>
+                <p class="card-text mt-2">{{ post.excerpt  | truncate: 85}}</p>
             </div>
             
         </div>
